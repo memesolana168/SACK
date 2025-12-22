@@ -1,6 +1,13 @@
 {
   "name": "Santa's Sack",
   "symbol": "SACK",
-  "description": "Burn your dust, dump your rugs, and get a surprise gift from Santa. 🎅 Twitter: @SantaSackSol Website: sack.meme",
-  "image": "https://raw.githubusercontent.com/memesolana168/SACK/main/pic/SACK.jpg"
+  "description": "Burn your dust, dump your rugs, and get a surprise gift from Santa. 🎅 Twitter: @SolanaSantaSACK Website: https://sack.meme to burn your dust and trash tokens to redeem more $SACK. Turn your trash into a gift. 🎅🎒",
+  "image": "https://raw.githubusercontent.com/memesolana168/SACK/main/pic/SACK.jpg",
+  "external_url": "https://sack.meme",
+  "attributes": [
+    {
+      "trait_type": "Event",
+      "value": "Christmas 2025"
+    }
+  ]
 }
