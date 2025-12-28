@@ -9,5 +9,24 @@
       "trait_type": "Event",
       "value": "Christmas 2025"
     }
+  ],"properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/memesolana168/SACK/main/pic/SACK.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
+  },
+  "extensions": {
+    "website": "https://sack.meme",
+    "twitter": "https://x.com/SolanaSantaSACK",
+    "telegram": "https://t.me/SolSantaSack"
+  },
+  "tags": [
+    "Meme",
+    "Community",
+    "Utility",
+    "Christmas"
   ]
 }
